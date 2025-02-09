@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily missed, error in HTML. The bug lies in the incorrect usage of the method to select an HTML element by its ID.  The solution provides the correct approach to modify the content of a div with a given ID.
